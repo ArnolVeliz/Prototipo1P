@@ -1,0 +1,18 @@
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Datos\obj\Debug\Capa_Datos.pdb

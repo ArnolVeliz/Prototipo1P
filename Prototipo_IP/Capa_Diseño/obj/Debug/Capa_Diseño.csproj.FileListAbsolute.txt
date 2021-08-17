@@ -1,0 +1,75 @@
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\bin\Debug\Capa_Diseño.dll
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\bin\Debug\Capa_Diseño.pdb
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.csprojAssemblyReference.cache
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.CoreCompileInputs.cache
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.dll
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.pdb
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\bin\Debug\Capa_Logica.dll
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\bin\Debug\Capa_Logica.pdb
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.CopyComplete
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\bin\Debug\Capa_Datos.dll
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\bin\Debug\Capa_Datos.pdb
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form1.resources
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form10.resources
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form11.resources
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form12.resources
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form13.resources
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form2.resources
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form3.resources
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form4.resources
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form5.resources
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form6.resources
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form7.resources
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form8.resources
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form9.resources
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\bin\Debug\Capa_Diseño.dll
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\bin\Debug\Capa_Diseño.pdb
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\bin\Debug\Capa_Logica.dll
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\bin\Debug\Capa_Datos.dll
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\bin\Debug\Capa_Logica.pdb
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\bin\Debug\Capa_Datos.pdb
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form1.resources
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form10.resources
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form11.resources
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form12.resources
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form13.resources
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form2.resources
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form3.resources
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form4.resources
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form5.resources
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form6.resources
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form7.resources
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form8.resources
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form9.resources
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.CopyComplete
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.dll
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.pdb
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form1.resources
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form10.resources
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form11.resources
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form12.resources
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form13.resources
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form2.resources
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form3.resources
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form4.resources
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form5.resources
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form6.resources
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form7.resources
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form8.resources
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.Form9.resources
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.dll
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.pdb
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\bin\Debug\Capa_Diseño.dll
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\bin\Debug\Capa_Diseño.pdb
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\bin\Debug\Capa_Logica.dll
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\bin\Debug\Capa_Datos.dll
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\bin\Debug\Capa_Logica.pdb
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\bin\Debug\Capa_Datos.pdb
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.CopyComplete

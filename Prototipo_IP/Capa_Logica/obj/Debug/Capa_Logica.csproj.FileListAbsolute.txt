@@ -1,0 +1,27 @@
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Logica\bin\Debug\Capa_Logica.dll
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Logica\bin\Debug\Capa_Logica.pdb
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Logica\obj\Debug\Capa_Logica.csprojAssemblyReference.cache
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Logica\obj\Debug\Capa_Logica.csproj.CoreCompileInputs.cache
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Logica\obj\Debug\Capa_Logica.dll
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Logica\obj\Debug\Capa_Logica.pdb
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Logica\bin\Debug\Capa_Datos.dll
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Logica\bin\Debug\Capa_Datos.pdb
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Logica\obj\Debug\Capa_Logica.csproj.CopyComplete
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Logica\bin\Debug\Capa_Logica.dll
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Logica\bin\Debug\Capa_Logica.pdb
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Logica\bin\Debug\Capa_Datos.dll
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Logica\bin\Debug\Capa_Datos.pdb
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Logica\obj\Debug\Capa_Logica.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Logica\obj\Debug\Capa_Logica.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Logica\obj\Debug\Capa_Logica.csproj.CopyComplete
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Logica\obj\Debug\Capa_Logica.dll
+C:\Users\DELL\Desktop\geo\PROTOTIPOIP-0901-18-8351\Prototipo_IP\Capa_Logica\obj\Debug\Capa_Logica.pdb
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Logica\bin\Debug\Capa_Logica.dll
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Logica\bin\Debug\Capa_Logica.pdb
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Logica\bin\Debug\Capa_Datos.dll
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Logica\bin\Debug\Capa_Datos.pdb
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Logica\obj\Debug\Capa_Logica.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Logica\obj\Debug\Capa_Logica.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Logica\obj\Debug\Capa_Logica.csproj.CopyComplete
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Logica\obj\Debug\Capa_Logica.dll
+C:\Users\DELL\Desktop\Prototipo1P\Prototipo_IP\Capa_Logica\obj\Debug\Capa_Logica.pdb
